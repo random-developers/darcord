@@ -1,0 +1,10 @@
+name: darcord
+version: 0.0.0-dev.1
+
+environment:
+    sdk: ">= 2.12.0 < 3.0.0"
+
+description: A placeholder package that will be developed soon. Only contains a placeholder variable at the moment.
+
+homepage: https://github.com/random-developers/darcord
+repository: https://github.com/random-developers/darcord
